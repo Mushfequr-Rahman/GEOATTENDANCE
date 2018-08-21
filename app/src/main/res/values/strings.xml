@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GEOATTENDANCE</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_admin__map">Map</string>
+</resources>
